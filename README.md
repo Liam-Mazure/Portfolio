@@ -1,4 +1,4 @@
-<h1>Liam Mazure's Portfolio</h1>
+<h1>Liam Mazure</h1>
 
 <h2>Education</h2>
 
